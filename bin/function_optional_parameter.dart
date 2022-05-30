@@ -3,7 +3,7 @@
 // Serta Parameter optional harus nullable
 // Parameter optional tidak bisa dikirim di parameter pertama
 
-void sayHello(String firstName, [String? mididleName ,String? lastName] ){
+void sayHello(String firstName, [String mididleName = '' ,String? lastName] ){
   print("Hello $firstName $lastName");
 }
 
