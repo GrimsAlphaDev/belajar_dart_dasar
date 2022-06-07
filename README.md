@@ -1,5 +1,7 @@
 Repo Untuk Belajar Bahasa Pemrograman DART
 
+File Script Berada Di Bin/
+
 Flow Untuk Belajar Dart Dasar :
 - Hello World
 - Variable
